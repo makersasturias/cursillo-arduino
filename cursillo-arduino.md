@@ -3,6 +3,8 @@
 ## Sumario
 
 - Capítulo 0: Cosas esenciales para empezar
+  - [Guía para principiantes](capitulo-0/guia-principiantes.md)
+
 - Capítulo 1: Instalacion Arduino IDE
 - Capitulo 2: led y un botón
 con este circuito aprovechar a explicar estructuras if while Switch etc...
